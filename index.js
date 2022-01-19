@@ -1,2 +1,3 @@
-console.log("This is a simple message from an equally simple javascript function.")
+const x = require("./message.js")
 
+console.log(x.message())
