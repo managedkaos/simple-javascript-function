@@ -1,3 +1,3 @@
-const x = require("./message.js")
+message = require("./message.js");
 
-console.log(x.message())
+console.log(message.deliver());
