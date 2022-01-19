@@ -1,6 +1,6 @@
 {
   "name": "@managedkaos/simple-javascript-function",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This is a really simple JS function.",
   "main": "index.js",
   "scripts": {
