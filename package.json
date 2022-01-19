@@ -1,0 +1,19 @@
+{
+  "name": "@managedkaos/simple-javascript-function",
+  "version": "1.0.0",
+  "description": "This is a really simple JS function.",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/managedkaos/simple-javascript-function.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/managedkaos/simple-javascript-function/issues"
+  },
+  "homepage": "https://github.com/managedkaos/simple-javascript-function#readme"
+}
