@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/managedkaos/simple-javascript-function/issues"
   },
-  "homepage": "https://github.com/managedkaos/simple-javascript-function#readme",
-  "dependencies": {
-    "@managedkaos/simple-javascript-function": "^1.0.0"
-  }
+  "homepage": "https://github.com/managedkaos/simple-javascript-function#readme"
 }
