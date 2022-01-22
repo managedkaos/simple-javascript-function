@@ -4,7 +4,7 @@
   "description": "This is a really simple JS function.",
   "main": "index.js",
   "scripts": {
-    "test": "exit 0"
+    "test": "node index.js"
   },
   "repository": {
     "type": "git",
